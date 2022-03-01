@@ -1,4 +1,4 @@
-#Space Invaders
+Space Invaders
 
 This is a Space Invaders game created using Python's Pygame.
 The tutorial is from YouTube delivered by Tech With Tim, check out his channel because you will learn a lot. https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
